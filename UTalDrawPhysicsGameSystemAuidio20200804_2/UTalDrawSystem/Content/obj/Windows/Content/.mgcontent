@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Bala.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Barrera_Abajo.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Barrera_Arriba.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Barrera_Der.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Barrera_Izq.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Boton_Credits.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Boton_Exit.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Boton_Instructions.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Boton_MainMenu.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Boton_Pause.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Boton_Play.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Boton_Replay.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Click.mp3</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/etfx_shoot_mystic.wav</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/FuenteA.spritefont</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Locations_Happy Village (loop).ogg</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Moneda.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Ranita.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Tecla_A.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Tecla_D.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Tecla_W.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Timer.png</File>
+    <File>C:/Users/alexe/Documents/Universidad/Programacion de videojuegos 2D/La tercera es la vencida/POA/UTalDrawPhysicsGameSystemAuidio20200804_2/UTalDrawSystem/Content/Titulo.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
